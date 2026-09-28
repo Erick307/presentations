@@ -7,7 +7,7 @@
     "pdf": "marp --pdf",
     "pptx": "marp --pptx",
     "watch": "marp --watch",
-    "server": "marp --server ."
+    "server": "marp --server decks"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^4.0.0"
